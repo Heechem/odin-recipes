@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: large;
+  background-color: rgba(0, 217, 255, 0.514);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.container {
+  padding: 10px;
+  margin: 20px;
+  position: relative;
+}
+.recipe2 {
+  padding: 10px;
+
+  margin: 20px;
+}
+.recipe1 {
+  padding: 10px;
+  margin: 20px;
+}
